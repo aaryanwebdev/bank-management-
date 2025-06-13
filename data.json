@@ -1,0 +1,34 @@
+[
+    {
+        "name": "aaryan",
+        "age": 18,
+        "email": "aaryan@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 500
+    },
+    {
+        "name": "shayaan",
+        "age": 10,
+        "email": "shayaan@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "asif",
+        "age": 53,
+        "email": "asif@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    },
+    {
+        "name": "aaryan ahmad",
+        "age": 20,
+        "email": "asifshayaan1973@gmail.com",
+        "pin": 1234,
+        "accountNo.": "0U6#1Bz",
+        "balance": 0
+    }
+]
